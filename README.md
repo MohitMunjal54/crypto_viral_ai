@@ -57,7 +57,7 @@ Fully open-source & local
 
 ## Installation and setup 
 # 1. Clone repository 
-git clone https://github.com/YourName/crypto-viral-ai.git
+git clone https://github.com/MohitMunjal54/crypto_viral_ai
 cd crypto-viral-ai
 
 # 2. Install Dependencies 
