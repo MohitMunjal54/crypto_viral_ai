@@ -1,0 +1,6 @@
+snscrape
+beautifulsoup4
+requests
+keybert
+scikit-learn
+yt-dlp
